@@ -19,5 +19,5 @@ I am fluent in Java, JavaScript, and HTML & CSS.<br><br>
 
 I've created websites using what I've learned.
 
-Feel free to reach out to say hi! 👋
+Feel free to reach out to say hi! 👋 <br>
 email: rlatpgn4040@naver.com
