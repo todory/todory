@@ -2,9 +2,9 @@ Hey there! 👋
 My name is Sehoon Kim.
 
 I've completed a coding course
-At an academy in Seoul.
+At an academy in Seoul. 👨‍💻
 
-I am fluent in Java, JavaScript, and HTML & CSS.<br>
+I am fluent in Java, JavaScript, and HTML & CSS.<br><br>
 <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="Java" height="25" />
 &nbsp;
 <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
