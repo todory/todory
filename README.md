@@ -1,5 +1,5 @@
 Hey there! 👋
-My name is Sehoon Kim.
+My name is [Sehoon Kim](https://github.com/todory).
 
 I've completed a coding course
 At an academy in Seoul. 👨‍💻
