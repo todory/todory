@@ -1,4 +1,4 @@
-Hey there! 👋
+Hey there! 👋 <br>
 My name is [Sehoon Kim](https://github.com/todory).
 
 I've completed a coding course
